@@ -3,10 +3,10 @@ Learning to Understand Financial Risk Contagion from A Frequency-Domain Graph Le
 
 
 ## Dataset
-[https://data.csmar.com/](https://pan.baidu.com/s/1rHzwyQYyvG_NU-aQH1aSGQ?pwd=g9ie)
+[https://pan.baidu.com/s/1rHzwyQYyvG_NU-aQH1aSGQ?pwd=g9ie]
 
 ## Procedure
-![Image text](https://github.com/Xsc-Swufe/FFreGNN/blob/main/CGLR_main/workflows.png)
+![Image text](https://github.com/Xsc-Swufe/FFreGNN/blob/main/FFreGNN/procdure.png)
 
 ## Requirements
 
